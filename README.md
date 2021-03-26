@@ -8,9 +8,9 @@ I'm Aidan Raney, a cyber security student, an expert frontend developer with pro
 - [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - A fitness calculator written in Visual Basic
 - [Pong](https://github.com/AidanSpeakss/pongwebsite) - Website built for a UW-Stout student organization
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=GunnerBasil)
+![My github stats](https://github-readme-stats.vercel.app/api?username=AidanSpeakss)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnerBasil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanSpeakss&layout=compact)
 
 ### Contact me:
 
