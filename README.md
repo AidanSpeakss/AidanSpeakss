@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aidan Raney, a cyber security student, an expert frontend developer with proffesional experience, and a novice software developer with academic experience.
+I'm Aidan Raney, a cyber security student, an experienced frontend developer with proffesional experience, and a novice software developer with academic experience.
 
 ### Projects:
 - [devaidan.dev](https://www.devaidan.com) - My website
