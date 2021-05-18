@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aidan Raney, a cyber security student, an experienced frontend developer with proffesional experience, and a novice software developer with academic experience.
+I'm Aidan Raney, a cyber security student, an experienced frontend web developer with proffesional experience, and a novice software developer with academic experience.
 
 ### Projects:
 - [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - A javascript based Enigma Machine [WIP]
