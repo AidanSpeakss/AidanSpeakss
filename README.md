@@ -4,7 +4,7 @@ I'm Aidan Raney, a cyber security student, an experienced frontend web developer
 
 ### Projects:
 - [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - A browser game based on the DVD Screensaver meme!
-- [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - A javascript based Enigma Machine [WIP]
+- [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - A javascript-based, Enigma Machine [WIP]
 - [devaidan.com](https://www.devaidan.com) - My website
 - [makeurown](https://github.com/AidanSpeakss/makeurown) - My Popular clone of 2048
 - [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - A fitness calculator written in Visual Basic
