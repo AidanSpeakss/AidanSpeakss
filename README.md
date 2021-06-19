@@ -3,6 +3,7 @@
 I'm Aidan Raney, a cyber security student, an experienced frontend web developer with proffesional experience, and a novice software developer with academic experience.
 
 ### Projects:
+- [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - A game based on the DVD Screensaver meme! Take control of the logo and try to make it hit the corner in as little moves as possible! [WIP]
 - [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - A javascript based Enigma Machine [WIP]
 - [devaidan.com](https://www.devaidan.com) - My website
 - [makeurown](https://github.com/AidanSpeakss/makeurown) - My Popular clone of 2048
