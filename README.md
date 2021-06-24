@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aidan Raney, a cyber security student, an experienced frontend web developer with proffesional experience, and a novice software developer with academic experience.
+I'm Aidan Raney, a cyber security student, an experienced frontend web developer, and a novice software developer.
 
 ### Projects:
 - [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme! [WIP]
