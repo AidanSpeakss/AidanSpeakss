@@ -12,6 +12,8 @@ I'm Aidan, a 20-year-old cyber security student at the University of Wisconsin-S
 - [kingleavessite](https://github.com/AidanSpeakss/kingleavessite) - Linktree like site for the streamer kingleavesmc
 - [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean.
 
+### Contributions:
+- [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AidanSpeakss)
