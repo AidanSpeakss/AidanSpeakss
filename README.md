@@ -1,4 +1,4 @@
-[img] https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/img.svg  
+[img]https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/img.svg[/img]   
 
 I'm a student at the University of Wisconsin-Stout. I have experience as a proffesional web developer, and I'm working everyday to become a better overall developer. If you'd like to contact me or read more about my qualifications/work, please go to my website at: https://devaidan.com/.
 
