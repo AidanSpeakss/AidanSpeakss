@@ -17,7 +17,7 @@ I'm a student at the University of Wisconsin-Stout. I have experience as a proff
 - [twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) - Twitch Screensaver/overlay graphic using channel emotes (WebGL, NodeJS)
 
 ### Work:  
-[**IDTech.com**](https://www.idtech.com/staff)
+[**IDTech.com**](https://www.idtech.com/staff)  
 *June 2021 – Current*  
 - Online Private Instructor
 - Teaching 1 on 1 courses for JavaScript, General Computer Science, Minecraft Modding With Java, and Minecraft Game Design
