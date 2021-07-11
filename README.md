@@ -16,6 +16,23 @@ I'm a student at the University of Wisconsin-Stout. I have experience as a proff
 - [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
 - [twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) - Twitch Screensaver/overlay graphic using channel emotes (WebGL, NodeJS)
 
+### Work:  
+[IDTech](https://www.idtech.com/staff)**IDTech.com*  
+*June 2021 – Current*  
+- Online Private Instructor
+- Teaching 1 on 1 courses for JavaScript, General Computer Science, Minecraft Modding With Java, and Minecraft Game Design
+- Part-time, avg 20 hours a week
+- Mastering my skills by teaching them
+
+
+[Platteville Web Solutions](https://www.plattevillewebsolutions.com/)**Platteville Web Solutions*  
+*Aug 2020 – Jan 2021, 6 months*  
+*Mar 2019 – Jan 2021, 1 yr 11 mos*  
+- Junior Web Developer
+- [HTML5, Blazor, Google AMP, JavaScript, SQL, SCSS, CSS, and ASP.net (MVC Model)
+- Left for college
+
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AidanSpeakss)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanSpeakss&layout=compact)
