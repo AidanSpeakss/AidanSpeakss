@@ -29,7 +29,9 @@ I'm a student at the University of Wisconsin-Stout. I have experience as a proff
 *Aug 2020 – Jan 2021, 6 months*  
 *Mar 2019 – Jan 2021, 1 yr 11 mos*  
 - Junior Web Developer
-- [HTML5, Blazor, Google AMP, JavaScript, SQL, SCSS, CSS, and ASP.net (MVC Model)
+- Gained valuable industry experience with HTML5, JavaScript, and SCSS/SASS
+- Introduced to C#, SQL, MVC, and ASP
+- Trained to use the latest tech at the time, like Blazor and Google AMP
 - Left for college
 
 
