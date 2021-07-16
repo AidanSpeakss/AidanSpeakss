@@ -1,6 +1,6 @@
 ![Hi there 👋, I'm Aidan](img.svg)
 
-I'm a student at the University of Wisconsin-Stout. I have experience as a proffesional web developer, and I'm working everyday to become a better overall developer. If you'd like to contact me or read more about my qualifications/work, please go to my website at: https://devaidan.com/.
+I'm a computer science student at the University of Wisconsin-Stout. I'm also an online private instructor at IDTech.com, teaching classes like JavaScript and General Computer Science! I've previously worked as a professional web developer, and I'm always working on becoming a more skilled overall developer. If you'd like to contact me or read more about my qualifications/work, please visit my website: https://devaidan.com/.
 
 ### Projects:
 - [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme! [WIP]
