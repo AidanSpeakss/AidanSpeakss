@@ -20,7 +20,7 @@ I'm a computer science student at the University of Wisconsin-Stout. I'm also an
 [**IDTech.com**](https://www.idtech.com/staff)  
 *June 2021 – Current*  
 - Online Private Instructor
-- Teaching 1 on 1 courses for JavaScript, General Computer Science, Java, Minecraft Modding With Java, and Minecraft Game Design
+- Teaching 1 on 1 courses for JavaScript, General Computer Science, Java, HTML, Minecraft Modding With Java, and Minecraft Game Design, Video for YouTube, Business & Entrepreneurship, micro:bit with Expansion Kit, Sphero RVR
 - Part-time, avg 20 hours a week
 - Mastering my skills by teaching them
 
