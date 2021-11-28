@@ -1,16 +1,17 @@
 ![Hi there 👋, I'm Aidan](img.svg)
 
-I'm a computer science student at the University of Wisconsin-Stout. I'm also an online private instructor at IDTech.com, teaching classes like JavaScript and General Computer Science! I've previously worked as a professional web developer, and I'm always working on becoming a more skilled overall developer. If you'd like to contact me or read more about my qualifications/work, please visit my website: https://devaidan.com/.
+I'm a computer science student at the University of Wisconsin-Stout. I taught at IDTech.com starting last summer for 6 months, teaching classes like JavaScript and General Computer Science! I left my position their as an Online Private Instructer to focus on my education. I've previously worked as a professional web developer for Platteville Web Solutions, and I'm always working on becoming a more skilled overall developer. If you'd like to contact me or read more about my qualifications/work, please visit my website: https://devaidan.com/.
 
 ### Projects:
-- [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme! [WIP]
-- [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - Javascript-based, Enigma Machine [WIP]
-- [devaidan.com](https://www.devaidan.com) - Portfolio website; responsive, modern, clean-code.
-- [makeurown](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048, Features: Login, tile-editor, save gamestate, track highscores across devices. 
-- [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - Fitness calculator written in Visual Basic
-- [Pong](https://github.com/AidanSpeakss/pongwebsite) - Basic demo website built for PONG, a UW-Stout student organization
-- [kingleavessite](https://github.com/AidanSpeakss/kingleavessite) - Linktree like site for the streamer kingleavesmc
-- [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean.
+- [java-console-program](https://github.com/AidanSpeakss/java-console-program) - Keeps track of tickets, parked cars, and police officers. (Java, OOP) **[Finished]** 
+- [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme! **[WIP]**  
+- [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - Javascript-based, Enigma Machine **[WIP]**  
+- [devaidan.com](https://www.devaidan.com) - Portfolio website; responsive, modern, clean-code. **[Finished]**  
+- [makeurown](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048, Features: Login, tile-editor, save gamestate, track highscores across devices **[Finished]**  
+- [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - Fitness calculator written in Visual Basic **[Finished]**  
+- [Pong](https://github.com/AidanSpeakss/pongwebsite) - Basic demo website built for PONG, a UW-Stout student organization **[Finished]**  
+- [kingleavessite](https://github.com/AidanSpeakss/kingleavessite) - Linktree like site for the streamer kingleavesmc **[Finished]**  
+- [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean. **[Finished]**  
 
 ### Contributions:
 - [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
@@ -18,7 +19,7 @@ I'm a computer science student at the University of Wisconsin-Stout. I'm also an
 
 ### Work:  
 [**IDTech.com**](https://www.idtech.com/staff)  
-*June 2021 – Current*  
+*June 2021 – Nov 2021, 6 months*  
 - Online Private Instructor
 - Teaching 1 on 1 courses for JavaScript, General Computer Science, Java, HTML, Minecraft Modding With Java, and Minecraft Game Design, Video for YouTube, Business & Entrepreneurship, micro:bit with Expansion Kit, Sphero RVR
 - Part-time, avg 20 hours a week
