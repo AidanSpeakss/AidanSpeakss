@@ -10,7 +10,6 @@ I'm a computer science student at the University of Wisconsin-Stout. I taught at
 - [makeurown](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048, Features: Login, tile-editor, save gamestate, track highscores across devices **[Finished]**  
 - [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - Fitness calculator written in Visual Basic **[Finished]**  
 - [Pong](https://github.com/AidanSpeakss/pongwebsite) - Basic demo website built for PONG, a UW-Stout student organization **[Finished]**  
-- [kingleavessite](https://github.com/AidanSpeakss/kingleavessite) - Linktree like site for the streamer kingleavesmc **[Finished]**  
 - [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean. **[Finished]**  
 
 ### Contributions:
