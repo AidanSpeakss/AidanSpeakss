@@ -1,4 +1,4 @@
-![Hi there 👋, I'm Aidan](img.svg)
+![Hi there 👋, I'm Aidan](img.svg)  
 I'm a computer science student at the University of Wisconsin-Stout. A junior front-end developer at FMG Suite. A fullstack web developer for Platteville Web Solutions. The owner of DevAidan LLC, which is a business setup to take over the operations of Platteville Web Solutions. And I moonlight as a InfoSec researcher for cybernews.com. I don't know what path I want to take yet, am I business owner, a cyber-security anaylist, a developer? Only time will tell! But in the mean-time, have a look at some of my open-source projects below and please visit my website: https://devaidan.com/. 
 
 ### Projects:
