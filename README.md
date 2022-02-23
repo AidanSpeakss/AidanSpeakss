@@ -24,5 +24,3 @@ I'm a computer science student at the University of Wisconsin-Stout. A junior fr
 ### Contact me:
 
 - All details are on my website: https://devaidan.com/  
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AidanSpeakss)  
