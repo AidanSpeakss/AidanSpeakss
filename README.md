@@ -17,9 +17,9 @@ I'm a computer science student at the University of Wisconsin-Stout. A junior fr
 - [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
 - [twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) - Twitch Screensaver/overlay graphic using channel emotes (WebGL, NodeJS)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=AidanSpeakss)
+![My github stats](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/overview.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanSpeakss&layout=compact)
+![Top Langs](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/languages.svg)
 
 ### Contact me:
 
