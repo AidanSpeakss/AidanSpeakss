@@ -1,5 +1,4 @@
 ![Hi there 👋, I'm Aidan](img.svg)  
-I'm a web developer by day, and a amateur infosec researcher by night. Check out my website: https://devaidan.com/
 
 ### Projects:
 - [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, similar to Discord's Streamer mode. (Javascript) **[Finished, Actively Maintained]**
