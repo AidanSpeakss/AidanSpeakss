@@ -1,5 +1,5 @@
 ![Hi there 👋, I'm Aidan](img.svg)  
-I'm a computer science student at the University of Wisconsin-Stout. A junior front-end developer at FMG Suite. A full-stack web developer for Platteville Web Solutions. The owner of DevAidan LLC. And I moonlight as an InfoSec researcher for cybernews.com. I don't know what path I want to take yet, am I a business owner, a cyber-security analyst, a developer? Only time will tell! But in the meantime, have a look at some of my open-source projects below, and please visit my website: https://devaidan.com/
+I'm a Junior Frontend Developer at FMG Suite by day and a InfoSec Researcher by night. Check out my website: https://devaidan.com/
 
 ### Projects:
 - [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, similar to Discord's Streamer mode. (Javascript) **[Finished, Actively Maintained]**
