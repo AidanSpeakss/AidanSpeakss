@@ -12,7 +12,7 @@ https://devaidan.com
 
 
 
-### My Favorite Projects:
+## My Favorite Projects:
 
 - [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, like Discord's Streamer mode.
 - [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
