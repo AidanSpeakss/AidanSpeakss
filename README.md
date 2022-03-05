@@ -9,6 +9,9 @@
 
 ### Contact me:
 contact@devaidan.com 
+
+### Hire me:
+https://devaidan.com 
 </p>  
 
 
