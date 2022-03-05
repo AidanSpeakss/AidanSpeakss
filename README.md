@@ -1,22 +1,4 @@
-![Hi there 👋, I'm Aidan](img.svg)  
-
-### My Open Source Projects:
-- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, similar to Discord's Streamer mode. (Javascript) **[Finished, Actively Maintained]**
-- [javapizzaapp](https://github.com/AidanSpeakss/javapizzaapp) - Simple pizza app that shows proficiency with JavaFX and Java. (Java, OOP) **[Finished]**
-- [java-console-program](https://github.com/AidanSpeakss/java-console-program) - Keeps track of tickets, parked cars, and police officers. (Java, OOP) **[Finished]** 
-- [dvd-logo-game](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme! **[WIP]**  
-- [jsengimamachine](https://github.com/AidanSpeakss/jsenigmamachine) - Javascript-based, Enigma Machine **[WIP]**  
-- [devaidan.com](https://www.devaidan.com) - Portfolio website; responsive, modern, clean code. **[Finished, Actively Maintained]**  
-- [makeurown](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048, Features: Login, tile-editor, save game state, track high scores across devices **[Finished, Actively Maintained]**  
-- [FitnessCalculator](https://github.com/AidanSpeakss/FitnessCalculator) - Fitness calculator written in Visual Basic **[Finished]**  
-- [Pong](https://github.com/AidanSpeakss/pongwebsite) - Basic demo website built for PONG, a UW-Stout student organization **[Finished]**  
-- [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean. **[Finished]**  
-
-### Some of my Contributions:
-- [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
-- [twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) - Twitch Screensaver/overlay graphic using channel emotes (WebGL, NodeJS)
-
-<p align="center">
+### 
 
 <a href="https://app.daily.dev/devaidan"><img align="left" src="https://api.daily.dev/devcards/0b22bde8f45f431bb6f3d1dd9f41ae0c.png?r=jy2" width="400" alt="Aidan Raney's Dev Card"/></a>
   
@@ -28,3 +10,10 @@
 ### Contact me:
 contact@devaidan.com 
 </p>  
+
+
+### My Favorite Projects:
+- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, like Discord's Streamer mode.
+- [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
+- [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048. Features: Login, tile-editor, save game state, track high scores across devices
+- [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - A simple demo for a food truck site; modern, clean, responsive.
