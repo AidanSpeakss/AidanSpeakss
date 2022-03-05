@@ -1,6 +1,6 @@
 ![Hi there 👋, I'm Aidan](img.svg)  
 
-### Projects:
+### My Open Source Projects:
 - [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Hides personal information from pages, similar to Discord's Streamer mode. (Javascript) **[Finished, Actively Maintained]**
 - [javapizzaapp](https://github.com/AidanSpeakss/javapizzaapp) - Simple pizza app that shows proficiency with JavaFX and Java. (Java, OOP) **[Finished]**
 - [java-console-program](https://github.com/AidanSpeakss/java-console-program) - Keeps track of tickets, parked cars, and police officers. (Java, OOP) **[Finished]** 
@@ -12,14 +12,19 @@
 - [Pong](https://github.com/AidanSpeakss/pongwebsite) - Basic demo website built for PONG, a UW-Stout student organization **[Finished]**  
 - [menomoniefoodtrucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Quick demo for a food truck site; modern, clean. **[Finished]**  
 
-### Contributions:
+### Some of my Contributions:
 - [Swiss Army Cubemap](https://github.com/hieyou1/swiss-army-cubemap) - Cubemap slicer in JS (Image-JS, WebPack, Node)
 - [twitch-streamsaver](https://github.com/hieyou1/twitch-streamsaver) - Twitch Screensaver/overlay graphic using channel emotes (WebGL, NodeJS)
 
+<p align="center">
+
+<a href="https://app.daily.dev/devaidan"><img align="left" src="https://api.daily.dev/devcards/0b22bde8f45f431bb6f3d1dd9f41ae0c.png?r=jy2" width="400" alt="Aidan Raney's Dev Card"/></a>
+  
 ![My github stats](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/overview.svg)
 
-![Top Langs](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/languages.svg)
+![Top Langs](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/languages.svg) 
+
 
 ### Contact me:
-
-- All details are on my website: https://devaidan.com/  
+contact@devaidan.com 
+</p>  
