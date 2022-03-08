@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/devaidan"><img src="https://api.daily.dev/devcards/0b22bde8f45f431bb6f3d1dd9f41ae0c.png?r=yl1" width="400" alt="Aidan Raney's Dev Card"/></a>  
+<a align="left" href="https://app.daily.dev/devaidan"><img src="https://api.daily.dev/devcards/0b22bde8f45f431bb6f3d1dd9f41ae0c.png?r=yl1" width="400" alt="Aidan Raney's Dev Card"/></a>  
 ![My github stats](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/overview.svg)  
 ![Top Langs](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/languages.svg)   
 ### About Me:
