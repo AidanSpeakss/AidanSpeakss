@@ -42,8 +42,8 @@
 			</style>
 			<div class="container">
 			      <h1 class="text-glow">
-				Hello human, I'm
-				<span class="text-gradient">Aidan</span> 
+				<span class="text-gradient">Hello human, I'm</span> 
+			      		Aidan
 				</h1>
 				<br/>
 			</div>
