@@ -9,7 +9,6 @@ https://devaidan.com
 - [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
 - [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048. Features: Login, tile-editor, save game state, track high scores across devices
 - [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - A simple demo for a food truck site; modern, clean, responsive.
-- [NoRussia](https://github.com/AidanSpeakss/NoRussian) - Tool anyone can use to DoS Russia and Belarus, the targets are provided by the Ukrainian IT Army telegram.
 - [Website](https://github.com/AidanSpeakss/website) - My portfolio website. It's made with love <3
 
 
