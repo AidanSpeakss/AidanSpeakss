@@ -14,5 +14,5 @@ https://devaidan.com
 
 
 <div align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
+	<img width="100%" align="center" src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
 </div>
