@@ -1,7 +1,7 @@
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
+	<img height="80px" width="auto" src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
 	<br>
 </div>
 
