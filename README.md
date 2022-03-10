@@ -2,7 +2,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/AidanSpeakss/AidanSpeakss/blob/main/dumbquote.svg">
-    <img src="dumbquote.svg" width="100%" height="auto">
+    		<img src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg" width="100%" height="auto">
 	</a>
 	<br>
 </div>
