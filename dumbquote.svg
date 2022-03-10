@@ -24,6 +24,7 @@
 			  color: white;
 			  padding: 1rem;
 			  text-align: center;
+				padding-bottom: 20px;
 			}
 
 			/* https://thegraph.com/en/ */
