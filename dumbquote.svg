@@ -36,12 +36,13 @@
 			  background: linear-gradient(to right, #30CFD0, #c43ad6);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
+					display: block;
 			}
 			</style>
 			<div class="container">
 			      <h1 class="text-glow">
 				<span class="text-gradient">Do not go gentle into that good night. Rage, rage against the dying of the light.</span> 
-				      <br>Dylan Thomas 
+				      Dylan Thomas 
 				</h1>
 			</div>
 		</div>
