@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-			@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+			@import url('https://fonts.googleapis.com/css2?family=DM+Sans');
 			.container {
 			  font-family: 'DM Sans', sans-serif;
 			  background-color: #1D1E22;
