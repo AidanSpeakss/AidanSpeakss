@@ -37,7 +37,6 @@
 			  background: linear-gradient(to right, #30CFD0, #c43ad6);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
-					display: block;
 			}
 			</style>
 			<div class="container">
