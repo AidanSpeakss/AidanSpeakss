@@ -21,9 +21,30 @@
 			.container {
 	                  padding: 50px 0;
 			  font-family: 'DM Sans', sans-serif;
-			  color: white;
 			  text-align: center;
 				padding-bottom: 20px;
+			}
+				
+			/* Light mode */
+			@media (prefers-color-scheme: light) {
+			    .container {
+				color: #1D1E22;
+			    }
+			}	
+
+			/* Dark mode */
+			@media (prefers-color-scheme: dark) {
+			    .container {
+				color: white;
+			    }
+			}			
+				
+				/* Light mode */
+			@media (prefers-color-scheme: light) {
+			    body {
+				background-color: white;
+				color: black;
+			    }
 			}
 
 			/* https://thegraph.com/en/ */
