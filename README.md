@@ -1,10 +1,3 @@
-
-<div align="center">
-	<br>
-	<img height="80px" width="auto" src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
-	<br>
-</div>
-
 <a href="https://app.daily.dev/devaidan"><img align="left" src="https://api.daily.dev/devcards/0b22bde8f45f431bb6f3d1dd9f41ae0c.png?r=5cm" width="400" alt="Aidan Raney's Dev Card"/></a>  
 ![My github stats](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/overview.svg)  
 ![Top Langs](https://raw.githubusercontent.com/AidanSpeakss/test/master/generated/languages.svg)  
@@ -18,3 +11,8 @@ https://devaidan.com
 - [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - A simple demo for a food truck site; modern, clean, responsive.
 - [NoRussia](https://github.com/AidanSpeakss/NoRussian) - Tool anyone can use to DoS Russia and Belarus, the targets are provided by the Ukrainian IT Army telegram.
 - [Website](https://github.com/AidanSpeakss/website) - My portfolio website. It's made with love <3
+
+
+<div align="center">
+	<img width="100%" src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
+</div>
