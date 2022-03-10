@@ -5,7 +5,7 @@
 https://devaidan.com  
 
 ## My Favorite Projects:
-- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Browser extension that personal information from pages, like Discord's Streamer mode.
+- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Browser extension that hides personal information from pages, like Discord's Streamer mode.
 - [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
 - [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048. Features: Login, tile-editor, save game state, track high scores across devices
 - [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - A simple demo for a food truck site; modern, clean, responsive.
