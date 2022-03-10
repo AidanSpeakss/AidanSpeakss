@@ -2,15 +2,26 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        .text-gradient {
-          background: linear-gradient(to right, #30CFD0, #c43ad6);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-        }
-        .text-glow {
-          text-shadow: 0 0 80px rgb(192 219 255 / 75%), 0 0 32px rgb(65 120 255 / 24%);
-        }
+			@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+			.container {
+			  font-family: 'DM Sans', sans-serif;
+			  background-color: #1D1E22;
+			  color: white;
+			  padding: 1rem;
+			  text-align: center;
+			}
 
+			/* https://thegraph.com/en/ */
+			.text-glow {
+			  text-shadow: 0 0 80px rgb(192 219 255 / 35%), 0 0 32px rgb(65 120 255 / 24%);
+			}
+
+			/* https://rareblocks.xyz/ */
+			.text-gradient {
+			  background: linear-gradient(to right, #30CFD0, #c43ad6);
+			  -webkit-background-clip: text;
+			  -webkit-text-fill-color: transparent;
+			}
 			</style>
 			<div class="container">
       <h1 class="text-glow">
