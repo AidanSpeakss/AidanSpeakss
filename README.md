@@ -1,9 +1,7 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/AidanSpeakss/AidanSpeakss/blob/main/dumbquote.svg">
-    		<img src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg" width="100%" height="auto">
-	</a>
+	<img src="https://raw.githubusercontent.com/AidanSpeakss/AidanSpeakss/main/dumbquote.svg">
 	<br>
 </div>
 
