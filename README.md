@@ -12,11 +12,11 @@ https://devaidan.com
   
 
 ## My Favorite Projects:
-- [Amazon Climate Filter](https://github.com/AidanSpeakss/amazon-shipping-filter) - Browser extension that filters amazon listings based on whether they are climate pledge friendly or not.
-- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Browser extension that hides personal information from pages, like Discord's Streamer mode.
-- [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
-- [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048. Features: Login, tile-editor, save game state, track high scores across devices
-- [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - A simple demo for a food truck site; modern, clean, responsive.
+- [Amazon Climate Filter](https://github.com/AidanSpeakss/amazon-shipping-filter) - Extension that filters amazon listings based on whether they are climate pledge friendly or not.
+- [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Extension that hides personal information from pages, like Discord's Streamer mode.
+- [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Simple, but addictive game based on the DVD Screensaver meme!
+- [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded of Famous Game 2048. Added Features: Login, tile-editor, save game state, track high scores across devices
+- [Menomonie Food Trucks](https://github.com/AidanSpeakss/menomoniefoodtrucks) - Food truck site; modern, clean, responsive.
 - [Website](https://github.com/AidanSpeakss/website) - My portfolio website. It's made with love <3
 
 
