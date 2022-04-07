@@ -12,6 +12,7 @@ https://devaidan.com
   
 
 ## My Favorite Projects:
+- [Amazon Climate Filter](https://github.com/AidanSpeakss/amazon-shipping-filter) - Browser extension that filters amazon listings based on whether they are climate pledge friendly or not.
 - [Streamer Mode for Firefox](https://github.com/AidanSpeakss/streamer-mode-for-firefox) - Browser extension that hides personal information from pages, like Discord's Streamer mode.
 - [DVD Master](https://github.com/AidanSpeakss/dvd-logo-game) - Browser game based on the DVD Screensaver meme!
 - [2048: Custom Mode](https://github.com/AidanSpeakss/makeurown) - Modded Clone of 2048. Features: Login, tile-editor, save game state, track high scores across devices
